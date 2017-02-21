@@ -89,3 +89,4 @@ ENV/
 .ropeproject
 
 Data/
+Data_processed/
